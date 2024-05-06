@@ -6,7 +6,7 @@ Originally designed to prevent Windows from locking the user session or going to
 <img src="Images/mm_blue.png" width="200">
 
 # Donate
-Move Mouse will always be free, but if you would like to buy me a beer to show your appreciation, you can do so using the following link. Thanks!
+Move Mouse will always be free, but if you would like to buy me a beer to show your appreciation, you can do so using the following link. Thanks! ❤
 
 [PayPal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZTWHD9CRW5XN)
 
